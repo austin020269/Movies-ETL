@@ -1,5 +1,5 @@
 # Movies-ETL
-UT Bootcamp Module 8
+UT Bootcamp Module 8 Challenge
 ## Project Overview
 The school has provided data to analyze school spending, standardized test scores and student grades (math and reading scores).
 
