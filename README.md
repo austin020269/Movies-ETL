@@ -87,7 +87,7 @@ Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_Clean_kaggle_dat
 
 ## Results
 
-Created a a database called movie_data that has a movies table and a ratings table in pgAdmin that has the following counts:
+Deliverable 4: Created a a database called movie_data that has a movies table and a ratings table in pgAdmin that has the following counts:
 
 ![alt text](https://github.com/austin020269/Movies-ETL/blob/main/Deliverable_2_pic.PNG)
 
