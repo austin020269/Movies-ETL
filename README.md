@@ -1,7 +1,7 @@
 # Movies-ETL
 UT Bootcamp Module 8 Challenge
 ## Project Overview
-Movies and ratings data were acquired from both Wikipedia and Kaggle in order to use in a hckathon. We were asked to combine the data and save them into a SQL database for hackathon participants to use. To do this, To do this we followed the ETL process data management rules which include: 
+Movies and ratings data were acquired from both Wikipedia and Kaggle in order for students to use in a hackathon. We were asked to combine the data and save them into a SQL database for hackathon participants to use. To do this, To do this we followed the ETL process data management rules which include: 
 
 1. extracting the Wikipedia and Kaggle data 
 2. transforming the datasets by cleaning them up and joining them together
@@ -20,23 +20,19 @@ Software utilized for this study included:
 - Personal GitHub account
 
 ## Analysis and Workflow
-Data for the math and reading scores were removed then we created district and school summary dataframes to manipulte the following:
 
-- Top 5 and bottom 5 performing schools
-- Average math score received by students in each grade level at each school
-- Average reading score received by students in each grade level at each school
-- School performance based on the spending per student
-- School performance based on the size of the school
-- School performance based on the type of school
+Deliverable 1:
+1. Create a function to read in the three files and give it a name
+2. Read in the movies_metadata and ratings CSV files as Pandas DataFrames
+3. Open the Wikipedia JSON file and use the json.load() function to convert the JSON data to raw data
+4. ead in the raw Wikipedia movie data as a Pandas DataFrame
+5. Return the three DataFrames from the code provided.
+6. se the variables provided to create a path to the Wikipedia data, the Kaggle metadata, and the MovieLens rating data files.
+7. Set the three variables in Step 6 equal to the function created in Step 1.
+8. Set the DataFrames from the return statement equal to the file names in Step 6. In this step, you are reassigning the variables created in Step 6 to the variables in the return statement.
+9. Check that all three files are converted to a DataFrame.
 
-The Jupyter notebooks (Python code) for the above analysis was worked through in the following files.
-
-https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools.ipynb
-https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
-
-The Challenge at the end of the module which finakized results of the study is here:
-
-https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_final.ipynb
+![alt text](https://github.com/austin020269/Movies-ETL/blob/main/Deliverable_1_pic.PNG)
 
 
 ## Summary
