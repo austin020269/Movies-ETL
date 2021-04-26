@@ -85,7 +85,9 @@ Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_Clean_kaggle_dat
 11. Set the DataFrames from the return statement from above equal to the file names.
 12. Check that your wiki_movies_df DataFrame is the same as in Deliverable 2.
 
-## Results - Created a a database called movie_data that has a movies table and a ratings table in pgAdmin that has the following counts:
+## Results
+
+Created a a database called movie_data that has a movies table and a ratings table in pgAdmin that has the following counts:
 
 ![alt text](https://github.com/austin020269/Movies-ETL/blob/main/Deliverable_2_pic.PNG)
 
