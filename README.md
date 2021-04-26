@@ -1,11 +1,11 @@
 # Movies-ETL
 UT Bootcamp Module 8 Challenge
 ## Project Overview
-Movies and ratings data were acquired from both Wikipedia and Kaggle in order to use in a hckathon. We were asked to combine the data and save them into a SQL database for hackathon participants to use. To do this, To do this we followed the ETL process as follows: 
+Movies and ratings data were acquired from both Wikipedia and Kaggle in order to use in a hckathon. We were asked to combine the data and save them into a SQL database for hackathon participants to use. To do this, To do this we followed the ETL process data management rules which include: 
 
-1. extract the Wikipedia and Kaggle data 
-2. transform the datasets by cleaning them up and joining them together
-3. load the cleaned dataset into a SQL database
+1. extracting the Wikipedia and Kaggle data 
+2. transforming the datasets by cleaning them up and joining them together
+3. loading the cleaned dataset into a SQL database
 
 ## Resources
 Data Sources provided to analyze and minipulate included:
