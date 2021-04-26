@@ -22,7 +22,7 @@ Software utilized for this study included:
 ## Analysis and Workflow
 
 Deliverable 1:
-Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_function_test.ipynb
+- Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_function_test.ipynb
 
 1. Create a function to read in the three files and give it a name
 2. Read in the movies_metadata and ratings CSV files as Pandas DataFrames
@@ -37,7 +37,7 @@ Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_function_test.ip
 ![alt text](https://github.com/austin020269/Movies-ETL/blob/main/Deliverable_1_pic.PNG)
 
 Deliverable 2:
-Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb
+- Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb
 
 1. Add the code from this module for the clean movie function that takes in the argument "movie".
 2. Add the function you created in Deliverable 1 that reads in the three data files.
@@ -67,7 +67,7 @@ Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_clean_wiki_movie
 ![alt text](https://github.com/austin020269/Movies-ETL/blob/main/Deliverable_2_pic_2.PNG)
 
 Deliverable 3:
-Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_Clean_kaggle_data.ipynb
+- Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_Clean_kaggle_data.ipynb
 
 1. Add the function created that reads in the three data files and creates the kaggle_metadata and ratings DataFrames.
 2. Add code that cleans the Kaggle metadata.
