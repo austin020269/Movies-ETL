@@ -91,6 +91,6 @@ Code :
 
 Deliverable 4: Created a a database called movie_data that has a movies table and a ratings table in pgAdmin that has the following counts:
 
-![alt text](https://github.com/austin020269/Movies-ETL/blob/main/Deliverable_2_pic.PNG)
+![alt text](https://github.com/austin020269/Movies-ETL/blob/main/movies_query_2.PNG)
 
 ![alt text](https://github.com/austin020269/Movies-ETL/blob/main/Deliverable_2_pic.PNG)
