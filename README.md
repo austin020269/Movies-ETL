@@ -1,20 +1,23 @@
 # Movies-ETL
 UT Bootcamp Module 8 Challenge
 ## Project Overview
-The school has provided data to analyze school spending, standardized test scores and student grades (math and reading scores).
+Movies and ratings data were acquired from both Wikipedia and Kaggle in order to use in a hckathon. We were asked to combine the data and save them into a SQL database for hackathon participants to use. To do this, To do this we followed the ETL process as follows: 
+
+1. extract the Wikipedia and Kaggle data 
+2. transform the datasets by cleaning them up and joining them together
+3. load the cleaned dataset into a SQL database
 
 ## Resources
 Data Sources provided to analyze and minipulate included:
-- schools_complete.csv
-- students_complete.csv
-- clean_students_complete.csv
-- missing_grades.csv
+- ratings.csv
+- movies_metadata.csv
 
 Software utilized for this study included: 
 - Python 3.7.6 
 - Conda 4.9.2 
 - Jupyter Notebook 6.1.4
-- GitHub account
+- pgAdmin 4.30
+- Personal GitHub account
 
 ## Analysis and Workflow
 Data for the math and reading scores were removed then we created district and school summary dataframes to manipulte the following:
