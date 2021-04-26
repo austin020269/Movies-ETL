@@ -60,7 +60,7 @@ Code : https://github.com/austin020269/Movies-ETL/blob/main/ETL_clean_wiki_movie
 17. Use the variables provided to create a path to the Wikipedia data, the Kaggle metadata, and the MovieLens rating data files.
 18. Set the three variables in Step 17 equal to the function created in Deliverable 1.
 19. Set the wiki_movies_df equal to the wiki_file variable.
-20. Check that your wiki_movies_df DataFrame is presentable
+20. Check that your wiki_movies_df DataFrame is presentable.
 
 ![alt text](https://github.com/austin020269/Movies-ETL/blob/main/Deliverable_2_pic.PNG)
 
